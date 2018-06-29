@@ -47,7 +47,7 @@ body {
   font-family: "Courier New", Courier, monospace;
   font-size: 2.0rem;
   line-height: 1.5em;
-  color: #B2B6BD;
+  color: #dddddd;
   background: #2b303b; }
 
 ::-moz-selection {
@@ -256,7 +256,7 @@ table.plain tbody > tr:nth-child(odd) > th {
 button, input, select, textarea {
   background: #4f586b;
   border: 1px solid #424a5a;
-  color: #B2B6BD;
+  color: #dddddd;
   outline-color: #bf6165; }
 
 /* ==========================================================================

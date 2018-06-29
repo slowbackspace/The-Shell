@@ -7,7 +7,7 @@
   .fun { color: red }  /* a function name */
   
   .kwd { color: #739a99; font-weight: bold } /* keyword */
-  .com { color: #B2B6BD } /* comment - light grey */
+  .com { color: #dddddd } /* comment - light grey */
   .typ { color: #98fb98 } /* type    - lightgreen */
   .lit, .str { color: #cd5c5c } /* literal, string - darkred */
   .pun, .opn, .clo { color: #fff }    /* punctuation */
